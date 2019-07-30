@@ -2,4 +2,4 @@
 
 I'm a passionate young developer that's sold out to a life-long learning in order to make the world a better place
 
-I stronly believe that coding is a compulsory life skill
+I strongly believe that coding is a compulsory life skill
